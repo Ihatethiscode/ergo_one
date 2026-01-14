@@ -89,7 +89,6 @@
             key-positions = <15 16>;
             timeout-ms = <50>;
             require-prior-idle-ms = <10>;
-            layers = <1>;
         };
 
         lshift {
